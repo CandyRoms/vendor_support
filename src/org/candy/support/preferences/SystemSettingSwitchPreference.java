@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.preferences;
+package org.candy.support.preferences;
 
 import android.content.Context;
 import androidx.preference.SwitchPreference;
