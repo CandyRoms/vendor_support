@@ -18,7 +18,7 @@
 package org.candy.support.preferences;
 
 import android.content.Context;
-import androidx.preference.SwitchPreference;
+import android.provider.Settings;
 import android.util.AttributeSet;
 
 public class GlobalSettingSwitchPreference extends SwitchPreference {
